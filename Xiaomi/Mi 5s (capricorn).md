@@ -1,4 +1,3 @@
 | 刷机包| 链接地址| 特性| 
 | -------- |---- | ----- | 
-| 魔趣| [链接](https://download.mokeedev.com/capricorn.html)  |  原生安卓，简洁  | 
 | Pixel Experience| [链接](https://download.pixelexperience.org/capricorn/)  |  原生安卓，简洁，谷歌服务  | 
