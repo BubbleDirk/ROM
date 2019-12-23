@@ -20,7 +20,7 @@
 
 *最后再次谢谢开发者们，由于他们的努力，使我们拥有了更多的玩机的乐趣！*
 
-<!--### 同步更新：[黑果小兵的部落阁](<https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html>)-->
+### 目前项目包含：271款机型
 
 ## 关于打赏
 
